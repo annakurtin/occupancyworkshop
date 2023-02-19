@@ -14,6 +14,9 @@
 ## ---------------------------
 
 
+# Source: https://jamesepaterson.github.io/jamespatersonblog/2020-09-01_occupancyintroduction.html
+
+
 ## ----loaddata-------------------------------------------
 # install.packages("unmarked") # first time only
 library(unmarked)
